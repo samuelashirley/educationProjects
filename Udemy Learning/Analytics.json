@@ -1,0 +1,1 @@
+GET https://login.spredfast.com/v1/oauth/authorize/external/{externalIdpAlias} 

@@ -1,0 +1,40 @@
+
+
+		/*Selector {
+				property: value;
+			}*/
+
+		/*	Selector that comes last on the sheet is what is used*/
+
+li {
+	border: 2px solid red;
+}
+
+#special {
+	background-color: yellow;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+
+ * { Selects everything on the page
+ }
+
+li a {
+	This selects anchor tags inside of an Li
+}
+
+
+h4 + ul {
+	UL that are adjacent to another attribute
+}
+
+
+input [type="text"] {
+	background-color: blue;
+}
+
+ul:nth-of-type(3) {
+	background-color: purple;
+}
